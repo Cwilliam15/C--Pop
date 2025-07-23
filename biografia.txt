@@ -1,3 +1,4 @@
 Nací en Cobán.
 Estudio Ingeniería en Sistemas.
 Me gusta la tecnología.
+Actualmente estoy aprendiendo Git.
