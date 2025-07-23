@@ -1,4 +1,8 @@
 Nací en Cobán.
-Estudio Ingeniería en Sistemas.
+HEAD
+Estudio en la Universidad Rafael Landivar.
+=======
+Estudio Ingenieria en sistemas.
+cambio1
 Me gusta la tecnología.
 Actualmente estoy aprendiendo Git.
